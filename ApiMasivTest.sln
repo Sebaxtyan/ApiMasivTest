@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMasivTest", "ApiMasivTest\ApiMasivTest.csproj", "{AE94A829-02E0-47B4-83E3-01FAEAFDDABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE94A829-02E0-47B4-83E3-01FAEAFDDABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE94A829-02E0-47B4-83E3-01FAEAFDDABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE94A829-02E0-47B4-83E3-01FAEAFDDABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE94A829-02E0-47B4-83E3-01FAEAFDDABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20FACA3-0AA2-488A-889A-81404F52B8B3}
+	EndGlobalSection
+EndGlobal
